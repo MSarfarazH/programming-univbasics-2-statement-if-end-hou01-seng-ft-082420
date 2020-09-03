@@ -1,9 +1,6 @@
-if the_dice = true
-  puts "This code runs!"
+if the_second = true
+  puts "Even!"
 else
 puts "Code before if...end"
-
-if run_code_inside
-  puts "code inside"
 end
-puts "Code after if...end"
+
