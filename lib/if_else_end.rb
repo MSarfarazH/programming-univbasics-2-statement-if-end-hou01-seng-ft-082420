@@ -1,4 +1,4 @@
-if run_code_inside = true
+if the_dice = true
   puts "This code runs!"
 else
 puts "Code before if...end"
