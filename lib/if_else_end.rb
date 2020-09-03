@@ -1,8 +1,6 @@
-if something that is either true or false>
-  if true
+if run_code_inside = true
   puts "This code runs!"
-end
-run_code_inside = false
+else
 puts "Code before if...end"
 
 if run_code_inside
