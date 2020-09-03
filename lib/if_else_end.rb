@@ -1,6 +1,6 @@
 if the_second = true
-  puts "Even!"
+  puts "Even"
 else
-puts "Code before if...end"
+puts "Odd"
 end
 
