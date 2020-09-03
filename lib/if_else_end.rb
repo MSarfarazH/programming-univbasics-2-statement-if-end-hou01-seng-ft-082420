@@ -6,6 +6,7 @@ end
 run_code_inside = false
 puts "Code before if...end"
 binding_pry
+0
 if run_code_inside
   puts "code inside"
 end
