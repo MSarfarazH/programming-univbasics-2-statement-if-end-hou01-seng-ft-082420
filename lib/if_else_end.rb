@@ -1,5 +1,5 @@
 current_time = Time.now
-if the_second = true
+if current_time
   puts "Even!"
 else
 puts "Odd!"
